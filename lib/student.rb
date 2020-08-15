@@ -2,5 +2,5 @@ class Student < User
 
 
 def initialize(knowledge)
-  @knowledge = []
+  @knowledge = Array.new
 end
