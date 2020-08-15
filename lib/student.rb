@@ -6,7 +6,7 @@ class Student < User
   end
   
   def learn(new)
-    
+    @knowledge
   def knowledge
     @knowledge
   end
