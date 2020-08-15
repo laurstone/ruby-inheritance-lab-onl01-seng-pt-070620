@@ -5,7 +5,8 @@ class Student < User
     @knowledge=Array.new
   end
   
-   def knowledge
+  def learn
+  def knowledge
     @knowledge
   end
 end 
