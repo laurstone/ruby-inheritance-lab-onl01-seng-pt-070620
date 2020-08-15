@@ -1,6 +1,9 @@
 class Student < User
 
 
-def initialize
+  def initialize
     @knowledge=Array.new
   end
+  
+   
+end 
